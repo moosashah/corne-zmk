@@ -1,0 +1,2 @@
+- fixed the website tab navigation keys
+- added bluetooth clear all profile button incase it disconnects again and can't reconnect
